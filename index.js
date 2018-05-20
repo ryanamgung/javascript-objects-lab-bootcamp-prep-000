@@ -10,3 +10,7 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value)
   return
 }
 
+function deleteFromObjectByKey(object, key)
+{
+  return
+}
