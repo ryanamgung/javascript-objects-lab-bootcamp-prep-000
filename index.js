@@ -2,5 +2,11 @@ var recipes = new Object({});
 
 function updateObjectWithKeyAndValue(object, key, value)
 {
-  
+  return
 }
+
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value)
+{
+  return
+}
+
